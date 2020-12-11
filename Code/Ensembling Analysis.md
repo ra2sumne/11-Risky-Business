@@ -1,4 +1,4 @@
-# Ensemling Statistics 
+# Ensembling Statistics 
 
 ## Score Table
 | Model | Scores |  
